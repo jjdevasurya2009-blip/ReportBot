@@ -26,7 +26,7 @@ class Txt(object):
     SEND_TARGET_CHANNEL = """
 ( SEND THE TARGET CHANNEL LINK or USERNAME)
 
-☛ For e.g :- <code> @AIORFT </code> or <code> https:/t.me/AIORFT </code>
+☛ For e.g :- <code> @KNIGHTSS_CLAN </code> or <code> https://t.me/KNIGHTSS_CLAN </code>
 """
 
     SEND_SESSION_MSG = """
@@ -96,7 +96,8 @@ Hɪ {},
 
 Tʜɪs Bᴏᴛ ɪs ғᴏʀ ᴛᴏ ʀᴇᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ɪɴ ᴍᴀss ʟᴇᴠᴇʟ ᴛʜʀᴏᴜɢʜ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛ sᴇssɪᴏɴ sᴛʀɪɴɢ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ɢᴇɴᴇʀᴀᴛᴇ ʙʏ @SessionxGenBot.
 
-Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- @urstarkz
+Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ :- @Last_uchihaz | @SexyReaper
+
 """
 
     HELP_MSG = """
@@ -124,9 +125,10 @@ Tʜɪs ʙᴏᴛ ɪs sᴏʟᴇʟʏ ᴄʀᴇᴀᴛᴇ ᴏʀ ᴅᴇᴠᴇʟᴏᴘ�
 
     ABOUT_MSG = """
 - 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href=https://t.me/{}>{}</a>
-- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=https://t.me/urstarkz>STARK</a>
+- 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href=https://t.me/Last_uchihaz>𝐒ᴀꜱᴜᴋᴇ</a>
+- Owner : <a href=https://t.me/SexyReaper>𝐈ᴛᴀᴄʜɪ</a>
 - 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : Pyrogram
 - 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥
 - 𝖣𝖺𝗍𝖺𝖡𝖺𝗌𝖾 : 𝖬𝗈𝗇𝗀𝗈𝖣𝖡
-- 𝖡𝖮𝖳 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖠𝗇𝗒𝖶𝗁𝖾𝗋𝖾
+- 𝖲𝖾𝗋𝗏𝖾𝗋 : Vps
 """
